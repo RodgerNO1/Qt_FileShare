@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/cancel_icon.png</file>
+        <file>image/down_icon.png</file>
+        <file>image/host_icon.png</file>
+        <file>ico/myicon.ico</file>
+        <file>image/add_icon.png</file>
+        <file>image/send_icon.png</file>
+        <file>image/chat_icon.png</file>
+    </qresource>
+</RCC>
